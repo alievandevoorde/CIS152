@@ -2,6 +2,7 @@
 //  main.cpp
 //  FinalProjectDS
 //
+//  alievan1624@gmail.com
 //  Last edited by Alie VanDeVoorde on 12/7/23.
 //  This program will take user input and sort
 //  using a linked list in order to tell the
